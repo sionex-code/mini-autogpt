@@ -2,10 +2,6 @@
 
 Mini AutoGPT is a minimalist implementation of AutoGPT's foundational features, designed to provide a streamlined browsing experience. This project has the potential to become a larger-scale project with expanded functionality.
 
-## Why Mini AutoGPT is Different
-
-Mini AutoGPT is different from other web browsing automation tools because it doesn't require the OpenAI API to work. While it can work with GPT-3.5, the current accuracy is very low. However, Mini AutoGPT can work with the GPT-4 version, and it doesn't require any API or complex setup.
-
 Note that the `chatgpt-unofficial-api.py` file needs to be run on a server for better performance.
 
 ## Features
